@@ -1,0 +1,11 @@
+# AI Act Disclosure Desk
+
+AI Act Disclosure Desk maintains AI feature inventory, user touchpoints, disclosure text versions, reviewer signoff, and Article 50 evidence exports.
+
+Website: https://aiactdisclosuredesk.space/
+Docs pattern reference: https://github.com/clauxel/MiroFish
+Primary keyword: EU AI Act disclosure evidence
+Type: SaaS
+Default plan: Team
+
+Public boundary: docs-only repository; no production source code or secrets.
